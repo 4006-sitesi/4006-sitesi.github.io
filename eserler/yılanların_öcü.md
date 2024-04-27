@@ -8,9 +8,8 @@ Yılanların Öcü, bir yandan yazara büyük ün getirmiş, [1959 Yunus Nadi Ro
 
 Eser; 1962'de [Metin Erksan](https://tr.wikipedia.org/wiki/Metin_Erksan), 1985'te [Şerif Gören](https://tr.wikipedia.org/wiki/%C5%9Eerif_G%C3%B6ren) yönetmenliğinde sinemaya, 2014'te ise dizi olarak televizyona uyarlanmıştır.
 
-# Konusu
-## Konusu
 ### Konusu
 
+#### Kaynakça
 [^1]: Tiken, Servet (19 Nisan 2010). ["Fakir Baykurt'un Yılanların Öcü Adlı Romanına Oluşumsal Yapısalcı Bir Yaklaşım"](https://dergipark.org.tr/tr/pub/ataunisosbil/issue/2823/38098). Atatürk Üniversitesi Sosyal Bilimler Enstitüsü Dergisi. **13** (1): 43-56. ISSN 1304-4990.
 [^2]: ["Baykurt'un 'belalı' eseri: Yılanların Öcü"](http://www.milliyetsanat.com/haberler/edebiyat/baykurt-un--belali--eseri---yilanlarin-ocu-/540). Milliyet Sanat. 3 Kasım 2013.
