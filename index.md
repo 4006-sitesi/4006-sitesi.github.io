@@ -1,2 +1,1 @@
-# PODFSIOGIPODSFG
-NORMAL METİN
+# Projemizin Konu Aldığı Tüm Eserler
