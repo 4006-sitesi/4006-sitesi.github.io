@@ -1,2 +1,2 @@
 # Projemizin Konu Aldığı Tüm Eserler
-[Yılanların Öcü](yılanların_öcü)
+[Yılanların Öcü](eserler/yılanların_öcü)
