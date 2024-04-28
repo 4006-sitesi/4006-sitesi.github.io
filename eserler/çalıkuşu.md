@@ -1,6 +1,6 @@
 # Çalıkuşu<br/>
 
-Çalıkuşu, Reşat Nuri Güntekin'in ilk defa 1922'de tefrika edilmeye başlanıp 1923'te kitap olarak yayımlanan, 1937'de büyük değişikliklerle tefrika edilen romanıdır.[^1]
+Çalıkuşu, Reşat Nuri Güntekin'in ilk defa 1922'de tefrika edilmeye başlanıp 1923'te kitap olarak yayımlanan, 1937'de büyük değişikliklerle tefrika edilen romanıdır.[^1] <img align="right" width="150" height="229" src="../görseller/çalıkuşu.jpg">
 
 Romanda, İstanbul'da köklü bir ailenin kızı olan çocuk ruhlu Feride'nin çok sevdiği nişanlısı tarafından ihanete uğramasıyla kendini öğretmenlik mesleğine adaması ve hayatını kazanabilmek için Anadolu'da şehir şehir dolaşması anlatılır. Melodram ögeleri ile yüklü bir aşk öyküsünün yanı sıra bürokrasi eleştirisi, kadınların Osmanlı toplumunda var olma mücadelesi, öğretmenlik mesleğinin icrası gibi pek çok konuyu ele alır.
 

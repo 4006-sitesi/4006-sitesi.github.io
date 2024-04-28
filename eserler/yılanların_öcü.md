@@ -1,6 +1,6 @@
 
 # Yılanların Öcü<br/>
-Yılanların Öcü, [Fakir Baykurt](https://tr.wikipedia.org/wiki/Fakir_Baykurt)'un 1954'te kaleme aldığı, 1958'de yayımlanan romanı. <img align="right" width="300" height="458" src="../görseller/yılanların_öcü.jpg">
+Yılanların Öcü, [Fakir Baykurt](https://tr.wikipedia.org/wiki/Fakir_Baykurt)'un 1954'te kaleme aldığı, 1958'de yayımlanan romanı. <img align="right" width="150" height="229" src="../görseller/yılanların_öcü.jpg">
 
 Konusu, 1950'li yıllarda Türkiye'de bir köyde yaşanan toprak kavgasıdır. Eşitsizlikleri dile getiren, güçlü-güçsüz mücadelesini yansıtan bir köy romanıdır.[^1]
 Yazarın ilk romanı olan eser, devam romanı olan [Irazca'nın Dirliği](https://tr.wikipedia.org/wiki/Irazca%27n%C4%B1n_Dirli%C4%9Fi) ve Kara Ahmet Destanı ile birlikte *Fakir Baykurt üçlemesini* meydana getirir.
