@@ -1,6 +1,6 @@
 # Vurun Kahpeye!<br/>
 
-**Vurun Kahpeye**, [Halide Edip](https://tr.wikipedia.org/wiki/Halide_Edip)'in ikinci romanı. 1923 yılı sonlarında *[Akşam](https://tr.wikipedia.org/wiki/Ak%C5%9Fam_(gazete))* gazetesinde tefrika edildi ve 1926'da ilk defa kitap olarak yayımlandı.[1] Türk sinemasında [1949](https://tr.wikipedia.org/wiki/Vurun_Kahpeye_(film,_1949)), 1964 ve [1973](https://tr.wikipedia.org/wiki/Vurun_Kahpeye_(film,_1973)) yıllarında olmak üzere üç kez beyaz perdeye aktarıldı. Konusunu Millî Mücadele günlerinden alan roman ilk kez 1923 yılında basıldı.
+**Vurun Kahpeye**, [Halide Edip](https://tr.wikipedia.org/wiki/Halide_Edip)'in ikinci romanı. 1923 yılı sonlarında *[Akşam](https://tr.wikipedia.org/wiki/Ak%C5%9Fam_(gazete))* gazetesinde tefrika edildi ve 1926'da ilk defa kitap olarak yayımlandı.[^1] Türk sinemasında [1949](https://tr.wikipedia.org/wiki/Vurun_Kahpeye_(film,_1949)), 1964 ve [1973](https://tr.wikipedia.org/wiki/Vurun_Kahpeye_(film,_1973)) yıllarında olmak üzere üç kez beyaz perdeye aktarıldı. Konusunu Millî Mücadele günlerinden alan roman ilk kez 1923 yılında basıldı.
 <br/><br/>
 
 ## Konusu
