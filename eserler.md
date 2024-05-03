@@ -20,3 +20,7 @@
 [Gulyabanî](eserler/gulyabani)<br/>
 
 [Sarı Mercedes (Fikrimin İnce Gülü)](eserler/sarı_mercedes)<br/>
+
+[Küçük Ağa](eserler/küçük_ağa)<br/>
+
+

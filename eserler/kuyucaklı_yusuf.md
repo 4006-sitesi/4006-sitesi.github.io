@@ -1,6 +1,6 @@
 # Kuyucaklı Yusuf<br/>
 
-**Kuyucaklı Yusuf**, o zamana kadar bir öykü yazarı olarak tanınan [Sabahattin Ali](https://tr.wikipedia.org/wiki/Sabahattin_Ali)'nin 1937 yılında kaleme aldığı ve yayımladığı ilk romanıdır. Romanın baş kahramanı olan Yusuf, Türk edebiyatının en romantik karakterlerinden birisi olarak kabul edilir. Roman, Millî Eğitim Bakanlığı’nın ortaöğretim öğrencilerine tavsiye ettiği "100 Temel Eser" listesinde yer almaktadır.
+**Kuyucaklı Yusuf**, o zamana kadar bir öykü yazarı olarak tanınan [Sabahattin Ali](https://tr.wikipedia.org/wiki/Sabahattin_Ali)'nin 1937 yılında kaleme aldığı ve yayımladığı ilk romanıdır. Romanın baş kahramanı olan Yusuf, Türk edebiyatının en romantik karakterlerinden birisi olarak kabul edilir. Roman, Millî Eğitim Bakanlığı’nın ortaöğretim öğrencilerine tavsiye ettiği "100 Temel Eser" listesinde yer almaktadır. <img align="right" width="100" height="152" src="../görseller/kuyucaklı_yusuf.jpg">
 
 Roman, 1985 yılında [Feyzi Tuna](https://tr.wikipedia.org/wiki/Feyzi_Tuna) tarafından aynı adla sinemaya uyarlandı.
 <br/><br/>
