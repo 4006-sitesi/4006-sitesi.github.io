@@ -27,3 +27,5 @@
 
 [Dudaktan Kalbe](eserler/dudaktan_kalbe)<br/>
 
+[Dokuzuncu Hariciye Koğuşu](eserler/dokuzuncu_hariciye_koğuşu)
+
